@@ -1,1 +1,2 @@
+This code is a simple temperature conversion tool with a graphical user interface (GUI) built using the tkinter library in Python. It allows users to input a temperature in Celsius, Fahrenheit, or Kelvin and calculates and displays the equivalent temperatures in the other two units. The GUI features a dark color scheme, making it visually appealing and includes options to clear the input fields and perform conversions.
 # temperature_converter
